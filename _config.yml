@@ -1,18 +1,12 @@
 # Site settings
 title: Junghyeon Ahn
 email: ro033026@gmail.com
-description: > 
+description: "Data Analyst portfolio"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-linkedin_username: 
-  <p>
-  <a href="https://www.linkedin.com/in/junghyeon-ahn/">Junghyeon Ahn</a>
-</p>
-Instagram_username:  
-  <p>
-  <a href="https://www.instagram.com/hyeon_1998_/">hyeon_1998_</a>
-</p>
+linkedin_username: "Junghyeon-ahn"
+instagram_username: "hyeon_1998_"
 
 # Build settings
 markdown: kramdown
